@@ -1,4 +1,4 @@
-## Hi there 👋# I'm  [Avinash Amkar]
+## Hi there 👋# I'm  Avinash Amkar
 
 
 
