@@ -3,7 +3,10 @@
 
 
 Here are some ideas to get you started:
-
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
 🌱 I’m currently learning Full Stack Dev to improve my  skills.
 🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.
 💬 Ask me anything here.
