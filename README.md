@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...Full Stack Dev
-👯 I’m open to collaborating on interesting projects, especially in .NET and Blazor.
+🌱 I’m currently learning Full Stack Dev to improve my  skills.
 🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.
 💬 Ask me anything here.
 📫 You can reach me at aviamkar23@gmail.com for any inquiries.
