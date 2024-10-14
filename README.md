@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 <ul>
 <li>🌱 I’m currently learning Full Stack Dev to improve my  skills.</li>
 <li>🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.</li>
